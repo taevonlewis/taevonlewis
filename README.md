@@ -1,28 +1,32 @@
-<h1 align="center">Hi 👋, I'm TaeVon Lewis</h1>
-<h3 align="center">An iOS Engineer from New Jersey</h3>
+# TaeVon Lewis
 
-- 🔭 I’m currently working on multiple iOS apps, namely, SocialLinkup. I'm also constantly applying data structures and algorithms principles on LeetCode or custom generated problems.
+**Software Engineer (Swift Programming Language) - San Diego, CA**
 
-- 🌱 I’m currently learning **native mobile development, namely Swift for iOS and Kotlin for Android.**
+![Profile views](https://komarev.com/ghpvc/?username=taevonlewis&label=Profile%20views&color=7AA2F7&style=for-the-badge)
 
-- 💬 Ask me about **Swift, SwiftUI, and UIKit.**
+## Connect with me
 
-- 📫 How to reach me **lewistpro@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taevonlewis/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewistpro@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/taevonlewis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taevonlewis" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/taevon-lewis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="taevon-lewis" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/taevonl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taevonl" height="30" width="40" /></a>
-</p>
+## Languages and tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-147EFB?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![UIKit](https://img.shields.io/badge/UIKit-147EFB?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/documentation/uikit)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Swift Testing](https://img.shields.io/badge/Swift_Testing-725AC1?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/documentation/swift-testing)
+[![XCTest](https://img.shields.io/badge/XCTest-725AC1?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/documentation/xctest)
+[![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-30363D?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/documentation/package-manager/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Instruments](https://img.shields.io/badge/Instruments-30363D?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/xcode/)
+[![iTerm2](https://img.shields.io/badge/iTerm2-30363D?style=for-the-badge&logo=iterm2&logoColor=white)](https://iterm2.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taevonlewis)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taevonlewis&show_icons=true&locale=en&layout=compact" alt="taevonlewis" /></p>
+## GitHub activity
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taevonlewis&show_icons=true&locale=en" alt="taevonlewis" /></p>
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taevonlewis&theme=tokyonight) ![Contribution streak](https://streak-stats.demolab.com/?user=taevonlewis&theme=tokyonight&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taevonlewis&" alt="taevonlewis" /></p>
+![GitHub trophies](https://github-trophies.vercel.app/?username=taevonlewis&theme=tokyonight&no-frame=true&column=7&row=1&title=PullRequest,Repositories,Issues,Commits,Stars,MultiLanguage,AchieveSSSRank)
 
-![](https://komarev.com/ghpvc/?username=taevonlewis)
+![GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taevonlewis&theme=tokyonight)
